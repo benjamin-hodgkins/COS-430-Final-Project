@@ -1,0 +1,34 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>170</x><y>400</y><w>210</w><h>70</h></coordinates><panel_attributes>User
+--
+first_name: String
+last_name: String
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>690</x><y>610</y><w>210</w><h>110</h></coordinates><panel_attributes>Register
+--
+first_name: String
+last_name: String
+email: String
+password: String
+--
++login()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>690</x><y>400</y><w>210</w><h>80</h></coordinates><panel_attributes>Login
+--
+user_name: String
+password: String
+--
++autheticateLogin()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>690</x><y>200</y><w>210</w><h>70</h></coordinates><panel_attributes>Authentication
+--
+--
++autheticate()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>790</x><y>260</y><w>40</w><h>160</h></coordinates><panel_attributes>lt=.&gt;
+m1=n
+m2=n
+
+
+
+
+
+
+</panel_attributes><additional_attributes>10;10;10;140</additional_attributes></element><element><id>Relation</id><coordinates><x>790</x><y>470</y><w>40</w><h>160</h></coordinates><panel_attributes>lt=&lt;.
+m1=n
+m2=1</panel_attributes><additional_attributes>10;10;10;140</additional_attributes></element><element><id>Relation</id><coordinates><x>370</x><y>430</y><w>340</w><h>40</h></coordinates><panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes><additional_attributes>10;10;320;10</additional_attributes></element></diagram>
