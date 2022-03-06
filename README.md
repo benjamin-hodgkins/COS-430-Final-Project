@@ -60,11 +60,18 @@ To be completed by the group members...
 |    EEE       | To be completed by the group members...                                                                              |
 
 
+## UML Diagrams 
+#### Use Case Diagrams
 
+#### Class Diagrams
+
+#### Sequence Diagrams 
+
+#### Deployment Diagrams 
 
 
 ## References and Further Information 
 
 <br>[1: Reference AAA](https://usm.maine.edu/)</br>
 <br>[2: Reference BBB](https://usm.maine.edu/)</br>
-<br>[3: Reference AAA](https://usm.maine.edu/)</br>
+<br>[3: Reference CCC](https://usm.maine.edu/)</br>
