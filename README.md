@@ -61,22 +61,22 @@ To be completed by the group members...
 
 
 ## UML Diagrams 
-#### Use Case Diagrams
+#### [1] Use Case Diagrams
 <p align="justify">
 To be completed by the group members...
 </p>
 
-#### Class Diagrams
+#### [2] Class Diagrams
 <p align="justify">
 To be completed by the group members...
 </p>
 
-#### Sequence Diagrams 
+#### [3] Sequence Diagrams 
 <p align="justify">
 To be completed by the group members...
 </p>
 
-#### Deployment Diagrams 
+#### [4] Deployment Diagrams 
 <p align="justify">
 To be completed by the group members...
 </p>
