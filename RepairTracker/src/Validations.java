@@ -37,7 +37,9 @@ public class Validations {
 		if(!uName.equals("") || uPassword.equals("")) {
 			return 3;
 		}
-
+		if (p.matcher(uName).find() == false || p.matcher(uPassword).find() == false){
+			return 4;
+		}	
 		return 0;
 	}
 
