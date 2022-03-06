@@ -1,11 +1,11 @@
 # COS 430 (Software Engineering): Term Project
 
 <p align="justify">
-  <br> <strong>Group ID: G 07</strong></br>
-  <br> <strong>Group Members: Benjamin, Jack, Justin</strong></br>
-  <br> <strong>Project Title: Tracking software that keeps records of repair work and other information about a vehicle </strong></br>
-  <br> <strong>Project Description: Our app will keep track of information about repairs, maintenance, fuel efficiency, and compile all this information into an easily digestible format for budget purposes. </strong></br>
-  <br> <strong>Application Type: Mobile App</strong></br>
+  <br> <strong>Group ID:</strong> G 07</br>
+  <br> <strong>Group Members:</strong> Benjamin, Jack, Justin</br>
+  <br> <strong>Project Title:</strong> Tracking software that keeps records of repair work and other information about a vehicle</br>
+  <br> <strong>Project Description:</strong> Our app will keep track of information about repairs, maintenance, fuel efficiency, and compile all this information into an easily digestible format for budget purposes.</br>
+  <br> <strong>Application Type: </strong>Mobile App</br>
  </p>
 
 ## Executive Summary
@@ -26,29 +26,36 @@ TO be Completed by the group members...
 
 ## Milestones and Timelines
 
-#### September 2020
-| Iteartion #  | Action Items and Deliverables                                                                                        |
-|--------------|----------------------------------------------------------------------------------------------------------------------|
-| Iteration #1 | TO be Completed by the group members...                                                                              |
+#### Iteration #1
+| Items        | Description              | Action Items and Deliverables                                                             |
+|--------------|--------------------------|-------------------------------------------------------------------------------------------|
+| User Story   | TO be Completed by the group members...                                                                              |
 |              |                                                                                                                      |
 |              |                                                                                                                      |
 |              |                                                                                                                      |
-|--------------|----------------------------------------------------------------------------------------------------------------------|
-| Iteration #2 | TO be Completed by the group members...                                                                              |
+
+#### Iteration #2
+| Items        | Description              | Action Items and Deliverables                                                             |
+|--------------|--------------------------|-------------------------------------------------------------------------------------------|
+| User Story   | TO be Completed by the group members...                                                                              |
 |              |                                                                                                                      |
 |              |                                                                                                                      |
 |              |                                                                                                                      |
-|--------------|----------------------------------------------------------------------------------------------------------------------|
-| Iteration #3 | TO be Completed by the group members...                                                                              |
+
+
+#### Iteration #3
+| Items        | Description              | Action Items and Deliverables                                                             |
+|--------------|--------------------------|-------------------------------------------------------------------------------------------|
+| User Story   | TO be Completed by the group members...                                                                              |
 |              |                                                                                                                      |
 |              |                                                                                                                      |
 |              |                                                                                                                      |
-|              |                                                                                                                      |
+
 
 
 
 ## References and Further Information 
 
-[1](https://usm.maine.edu/)
-[2](https://usm.maine.edu/)
-[3](https://usm.maine.edu/)
+<br>[1](https://usm.maine.edu/)</br>
+<br>[2](https://usm.maine.edu/)</br>
+<br>[3](https://usm.maine.edu/)</br>
