@@ -29,27 +29,36 @@ TO be Completed by the group members...
 #### Iteration #1
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-| User Story   | TO be Completed by the group members...                                                                              |
-|              |                                                                                                                      |
-|              |                                                                                                                      |
-|              |                                                                                                                      |
+|  User Story  | To be Completed by the group members...                                                                              |
+|    AAA       | To be Completed by the group members...                                                                              |
+|    BBB       | To be Completed by the group members...                                                                              |
+|    CCC       | To be Completed by the group members...                                                                              |
+|    DDD       | To be Completed by the group members...                                                                              |
+|    EEE       | To be Completed by the group members...                                                                              |
+
 
 #### Iteration #2
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-| User Story   | TO be Completed by the group members...                                                                              |
-|              |                                                                                                                      |
-|              |                                                                                                                      |
-|              |                                                                                                                      |
+|  User Story  | To be Completed by the group members...                                                                              |
+|    AAA       | To be Completed by the group members...                                                                              |
+|    BBB       | To be Completed by the group members...                                                                              |
+|    CCC       | To be Completed by the group members...                                                                              |
+|    DDD       | To be Completed by the group members...                                                                              |
+|    EEE       | To be Completed by the group members...                                                                              |
+
 
 
 #### Iteration #3
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-| User Story   | TO be Completed by the group members...                                                                              |
-|              |                                                                                                                      |
-|              |                                                                                                                      |
-|              |                                                                                                                      |
+|  User Story  | To be Completed by the group members...                                                                              |
+|    AAA       | To be Completed by the group members...                                                                              |
+|    BBB       | To be Completed by the group members...                                                                              |
+|    CCC       | To be Completed by the group members...                                                                              |
+|    DDD       | To be Completed by the group members...                                                                              |
+|    EEE       | To be Completed by the group members...                                                                              |
+
 
 
 
