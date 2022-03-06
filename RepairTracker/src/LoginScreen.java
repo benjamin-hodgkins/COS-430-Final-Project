@@ -118,8 +118,11 @@ public class LoginScreen extends Validations {
 				case 3:
 					JOptionPane.showMessageDialog(null, "Please Enter your password.");
 					break;
+				case 4:
+					JOptionPane.showMessageDialog(null, "Please use Alpha-Numeric Characters only.");
+					break;
 				case 404:// when user info is not already saved within user database or information is
-						// wrong
+						// wrong. Will be Functional once a DB is established.
 					JOptionPane.showMessageDialog(null,
 							"User Not Found. Please double check that your Information is correct.");
 					break;
