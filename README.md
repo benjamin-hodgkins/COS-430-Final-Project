@@ -14,13 +14,13 @@
 Below, you will find a brief executive summary of our term project, including how the project will be relevant to end-users.
 </p>
 <p align="justify">
-To be Completed by the group members...
+To be completed by the group members...
 </p>
 
 ## Problem Statement
 
 <p align="justify">
-To be Completed by the group members...
+To be completed by the group members...
 </p>
 
 
@@ -29,35 +29,35 @@ To be Completed by the group members...
 #### Iteration #1
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | To be Completed by the group members...                                                                              |
-|    AAA       | To be Completed by the group members...                                                                              |
-|    BBB       | To be Completed by the group members...                                                                              |
-|    CCC       | To be Completed by the group members...                                                                              |
-|    DDD       | To be Completed by the group members...                                                                              |
-|    EEE       | To be Completed by the group members...                                                                              |
+|  User Story  | To be completed by the group members...                                                                              |
+|    AAA       | To be completed by the group members...                                                                              |
+|    BBB       | To be completed by the group members...                                                                              |
+|    CCC       | To be completed by the group members...                                                                              |
+|    DDD       | To be completed by the group members...                                                                              |
+|    EEE       | To be completed by the group members...                                                                              |
 
 
 #### Iteration #2
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | To be Completed by the group members...                                                                              |
-|    AAA       | To be Completed by the group members...                                                                              |
-|    BBB       | To be Completed by the group members...                                                                              |
-|    CCC       | To be Completed by the group members...                                                                              |
-|    DDD       | To be Completed by the group members...                                                                              |
-|    EEE       | To be Completed by the group members...                                                                              |
+|  User Story  | To be completed by the group members...                                                                              |
+|    AAA       | To be completed by the group members...                                                                              |
+|    BBB       | To be completed by the group members...                                                                              |
+|    CCC       | To be completed by the group members...                                                                              |
+|    DDD       | To be completed by the group members...                                                                              |
+|    EEE       | To be completed by the group members...                                                                              |
 
 
 
 #### Iteration #3
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | To be Completed by the group members...                                                                              |
-|    AAA       | To be Completed by the group members...                                                                              |
-|    BBB       | To be Completed by the group members...                                                                              |
-|    CCC       | To be Completed by the group members...                                                                              |
-|    DDD       | To be Completed by the group members...                                                                              |
-|    EEE       | To be Completed by the group members...                                                                              |
+|  User Story  | To be completed by the group members...                                                                              |
+|    AAA       | To be completed by the group members...                                                                              |
+|    BBB       | To be completed by the group members...                                                                              |
+|    CCC       | To be completed by the group members...                                                                              |
+|    DDD       | To be completed by the group members...                                                                              |
+|    EEE       | To be completed by the group members...                                                                              |
 
 
 
@@ -65,6 +65,6 @@ To be Completed by the group members...
 
 ## References and Further Information 
 
-<br>[1](https://usm.maine.edu/)</br>
-<br>[2](https://usm.maine.edu/)</br>
-<br>[3](https://usm.maine.edu/)</br>
+<br>[1: Reference AAA](https://usm.maine.edu/)</br>
+<br>[2: Reference BBB](https://usm.maine.edu/)</br>
+<br>[3: Reference AAA](https://usm.maine.edu/)</br>
