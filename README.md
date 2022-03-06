@@ -14,13 +14,13 @@
 Below, you will find a brief executive summary of our term project, including how the project will be relevant to end-users.
 </p>
 <p align="justify">
-TO be Completed by the group members...
+To be Completed by the group members...
 </p>
 
 ## Problem Statement
 
 <p align="justify">
-TO be Completed by the group members...
+To be Completed by the group members...
 </p>
 
 
