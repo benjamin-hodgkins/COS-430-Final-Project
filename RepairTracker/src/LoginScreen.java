@@ -107,14 +107,18 @@ public class LoginScreen extends Validations {
 			@SuppressWarnings("deprecation")
 			public void actionPerformed(ActionEvent arg0) {
 
-				switch (userLoggingCheck(userNameEntry.getText(), passwordEntry.getText())) {
-				case 1:
-					JOptionPane.showMessageDialog(null, "When entering your clock number with the 'z' omitted");
-					break;
-				case 2:// Missing field.
+			switch (userLoggingCheck(userNameEntry.getText(), passwordEntry.getText())) {
+
+				case 1:// Missing field.
 					JOptionPane.showMessageDialog(null, "Please Enter username and password.");
 					break;
-				case 3:// when user info is not already saved within user database or information is
+				case 2:
+					JOptionPane.showMessageDialog(null, "Please Enter your username.");
+					break;
+				case 3:
+					JOptionPane.showMessageDialog(null, "Please Enter your password.");
+					break;
+				case 404:// when user info is not already saved within user database or information is
 						// wrong
 					JOptionPane.showMessageDialog(null,
 							"User Not Found. Please double check that your Information is correct.");
