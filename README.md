@@ -14,7 +14,7 @@
 Below, you will find a brief executive summary of our term project, including how the project will be relevant to end-users.
 </p>
 <p align="justify">
-To be completed by the group members...
+Our app will keep track of information about car repairs, maintenance, fuel efficiency, and compile all this information into an easily digestible format for budgeting purposes. This is to help users manage their finances surrounding cars.
 </p>
 
 ## Problem Statement
