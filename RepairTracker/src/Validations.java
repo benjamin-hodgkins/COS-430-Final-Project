@@ -44,10 +44,10 @@ public class Validations {
 
 			return 1;
 		}
-		if(uName.equals("") || !uPassword.equals("")) {
+		if(uName.equals("") && !uPassword.equals("")) {
 			return 2;
 		}
-		if(!uName.equals("") || uPassword.equals("")) {
+		if(!uName.equals("") && uPassword.equals("")) {
 			return 3;
 		}
 		if (userNamePattern.matcher(uName).find() == false || passwordPattern.matcher(uPassword).find() == false){
