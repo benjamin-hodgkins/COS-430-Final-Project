@@ -20,7 +20,7 @@ Our app will keep track of information about car repairs, maintenance, fuel effi
 ## Problem Statement
 
 <p align="justify">
-To be completed by the group members...
+People have a hard time organizing and keeping track of their financial information about their vehicles. We will build an application which allows them to easily archive this information.
 </p>
 
 
@@ -29,12 +29,12 @@ To be completed by the group members...
 #### Iteration #1
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | To be completed by the group members...                                                                              |
-|    AAA       | To be completed by the group members...                                                                              |
-|    BBB       | To be completed by the group members...                                                                              |
-|    CCC       | To be completed by the group members...                                                                              |
-|    DDD       | To be completed by the group members...                                                                              |
-|    EEE       | To be completed by the group members...                                                                              |
+|   Use Case   | Logging in                                                                                                           | GUI with ability to log-in
+|   Diagram    | Shows the interaction between a user, and logging into the application                                               | Use case diagram     
+|   Diagram    | Shows the structure/relationships between the classes of the program                                                 | Class diagram
+|   Diagram    | Shows the interaction and order that between the user, login, and authentication                                     | Sequence diagram
+|   Diagram    | Shows the relationship between the hardware and application                                                          | Deployment diagram
+
 
 
 #### Iteration #2
