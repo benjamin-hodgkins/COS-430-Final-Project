@@ -40,12 +40,11 @@ People have a hard time organizing and keeping track of their financial informat
 #### Iteration #2
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | To be completed by the group members...                                                                              |
-|    AAA       | To be completed by the group members...                                                                              |
-|    BBB       | To be completed by the group members...                                                                              |
-|    CCC       | To be completed by the group members...                                                                              |
-|    DDD       | To be completed by the group members...                                                                              |
-|    EEE       | To be completed by the group members...                                                                              |
+|  User Story  | Register User                                                                                                        | Extend log-in story to add user                                                                                                                                       | registration
+|   Diagram    | Shows the interaction between a user, and logging into the application                                               | Use case diagram     
+|   Diagram    | Shows the structure/relationships between the classes of the program                                                 | Class diagram
+|   Diagram    | Shows the interaction and order that between the user, login, and authentication                                     | Sequence diagram
+|   Diagram    | Shows the relationship between the hardware and application                                                          | Deployment diagram                                                                           |
 
 
 
