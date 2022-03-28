@@ -40,7 +40,7 @@ People have a hard time organizing and keeping track of their financial informat
 #### Iteration #2
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | Register User                                                                                                        | Extend log-in story to add user registration                                                                                                                          
+|  Us Case  | Register User                                                                                                        | Extend log-in story to add user registration                                                                                                                          
 |   Diagram    | Shows the interaction between a user, and logging into the application                                               | Use case diagram     
 |   Diagram    | Shows the structure/relationships between the classes of the program                                                 | Class diagram
 |   Diagram    | Shows the interaction and order that between the user, login, and authentication                                     | Sequence diagram
