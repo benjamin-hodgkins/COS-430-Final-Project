@@ -40,9 +40,9 @@ People have a hard time organizing and keeping track of their financial informat
 #### Iteration #2
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  Use Case  | Register User                                                                                                        | Extend log-in story to add user registration                                                                                                                          
-|   Use Case    | Add Vehicle                                               | Use case diagram     
-|   Diagram    | Shows the interaction between a user, and logging into the application                                               | Add functionality to add a vehicle to track information about   
+|  Use Case  | Register User                                                                                                           | Extend log-in story to add user registration                                                                                                                          
+|   Use Case    | Add Vehicle                                                                                                         | Add functionality to add a vehicle to track information about    
+|   Diagram    | Shows the interaction between a user, and logging into the application                                               | Use case diagram    
 |   Diagram    | Shows the structure/relationships between the classes of the program                                                 | Class diagram
 |   Diagram    | Shows the interaction and order that between the user, login, and authentication                                     | Sequence diagram
 |   Diagram    | Shows the relationship between the hardware and application                                                          | Deployment diagram                                                                           |
