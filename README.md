@@ -41,7 +41,7 @@ People have a hard time organizing and keeping track of their financial informat
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
 |  Use Case  | Register User                                                                                                           | Extend log-in story to add user registration                                                                                                                          
-|   Use Case    | Add Vehicle                                                                                                         | Add functionality to add a vehicle to track information about    
+|   Use Case    | Add Vehicle                                                                                                         | Functionality to add a vehicle to track information about    
 |   Diagram    | Shows the interaction between a user, and logging into the application                                               | Use case diagram    
 |   Diagram    | Shows the structure/relationships between the classes of the program                                                 | Class diagram
 |   Diagram    | Shows the interaction and order that between the user, login, and authentication                                     | Sequence diagram
@@ -52,38 +52,16 @@ People have a hard time organizing and keeping track of their financial informat
 #### Iteration #3
 | Items        | Description              | Action Items and Deliverables                                                             |
 |--------------|--------------------------|-------------------------------------------------------------------------------------------|
-|  User Story  | To be completed by the group members...                                                                              |
-|    AAA       | To be completed by the group members...                                                                              |
-|    BBB       | To be completed by the group members...                                                                              |
-|    CCC       | To be completed by the group members...                                                                              |
-|    DDD       | To be completed by the group members...                                                                              |
-|    EEE       | To be completed by the group members...                                                                              |
+|  User Case   | Add Information About Repair                                                                                         | Option to add new information about a repair done to a vehicle
+|  User Case   | Add Information About Repair (backend)                                                                               | Database to store repair information
+|   Diagram    | Shows the interaction between a user, and logging into the application                                               | Use case diagram    
+|   Diagram    | Shows the structure/relationships between the classes of the program                                                 | Class diagram
+|   Diagram    | Shows the interaction and order that between the user, login, and authentication                                     | Sequence diagram
+|   Diagram    | Shows the relationship between the hardware and application                                                          | Deployment diagram   
 
 
 ## UML Diagrams 
-#### [1] Use Case Diagrams
+#### [1] Use Case/Class/Sequence/Deployment Diagrams
 <p align="justify">
-To be completed by the group members...
+Diagrams for each iteration are found in the Iteration 1/2/3 folders.
 </p>
-
-#### [2] Class Diagrams
-<p align="justify">
-To be completed by the group members...
-</p>
-
-#### [3] Sequence Diagrams 
-<p align="justify">
-To be completed by the group members...
-</p>
-
-#### [4] Deployment Diagrams 
-<p align="justify">
-To be completed by the group members...
-</p>
-
-
-## References and Further Information 
-
-<br>[1: Reference AAA](https://usm.maine.edu/)</br>
-<br>[2: Reference BBB](https://usm.maine.edu/)</br>
-<br>[3: Reference CCC](https://usm.maine.edu/)</br>
