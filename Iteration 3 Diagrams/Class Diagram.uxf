@@ -1,0 +1,52 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>80</x><y>170</y><w>210</w><h>100</h></coordinates><panel_attributes>User
+--
+first_name: String
+last_name: String
+-
++addVehicle()
++addRepair()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>600</x><y>470</y><w>210</w><h>110</h></coordinates><panel_attributes>Register
+--
+first_name: String
+last_name: String
+email: String
+password: String
+--
++login()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>600</x><y>270</y><w>210</w><h>80</h></coordinates><panel_attributes>Login
+--
+user_name: String
+password: String
+--
++authenticateLogin()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>600</x><y>80</y><w>210</w><h>70</h></coordinates><panel_attributes>Authentication
+--
+--
++authenticate()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>700</x><y>140</y><w>40</w><h>150</h></coordinates><panel_attributes>lt=.&gt;
+m1=n
+m2=n
+
+
+
+
+
+
+</panel_attributes><additional_attributes>10;10;10;130</additional_attributes></element><element><id>Relation</id><coordinates><x>700</x><y>340</y><w>40</w><h>150</h></coordinates><panel_attributes>lt=&lt;.
+m1=1
+m2=1</panel_attributes><additional_attributes>10;10;10;130</additional_attributes></element><element><id>Relation</id><coordinates><x>280</x><y>200</y><w>340</w><h>130</h></coordinates><panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes><additional_attributes>10;10;320;110</additional_attributes></element><element><id>UMLClass</id><coordinates><x>80</x><y>390</y><w>210</w><h>80</h></coordinates><panel_attributes>Vehicle
+-
+vehicle_make: String
+vehicle_model: String
+vehicle_year: int
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>170</x><y>260</y><w>40</w><h>150</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=n</panel_attributes><additional_attributes>10;10;10;130</additional_attributes></element><element><id>Relation</id><coordinates><x>170</x><y>460</y><w>40</w><h>160</h></coordinates><panel_attributes>lt=-
+m1=1
+m2=n</panel_attributes><additional_attributes>10;10;10;140</additional_attributes></element><element><id>UMLClass</id><coordinates><x>80</x><y>600</y><w>210</w><h>90</h></coordinates><panel_attributes>Repair
+-
+repair_info: String
+repair_cost: float
+repair_date: String
+repair_location: String
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
